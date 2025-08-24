@@ -9,7 +9,7 @@
 ---
 
 ###  Connect with me
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/maharajasivam-m-15579a317/)
 
 ---
 
